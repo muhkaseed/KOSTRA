@@ -100,6 +100,7 @@ require __DIR__ . '/includes/navbar.php';
                     </span>
                     <p>Hubungi pemilik untuk bertanya lebih lanjut mengenai kos ini.</p>
 
+    
                     <?php if ($kos['kontak']): ?>
                         <?php
                         $wa = preg_replace('/\D/', '', $kos['kontak']);
