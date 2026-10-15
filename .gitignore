@@ -1,0 +1,6 @@
+/uploads/kos/*
+!/uploads/kos/.gitkeep
+.env
+*.log
+.DS_Store
+Thumbs.db
