@@ -1,0 +1,4 @@
+</main>
+<footer class="site-footer"><div class="container footer-main"><div class="footer-brand"><a class="brand" href="index.php"><span class="brand-mark">K.</span><span class="brand-text">KOSTRA<small>Kos ITS Raya</small></span></a><p>Temukan informasi kos di sekitar ITS Raya dengan lebih mudah.</p></div><div class="footer-links"><strong>Jelajahi</strong><a href="kos.php">Cari Kos</a><a href="tentang.php">Tentang KOSTRA</a><a href="login.php">Login</a></div><div class="footer-links"><strong>Area</strong><span>Keputih</span><span>Gebang</span><span>Tegal Mulyorejo Baru</span><span>Mulyosari</span></div></div><div class="container footer-bottom"><span>© <?= date('Y') ?> KOSTRA. Proyek pembelajaran mahasiswa.</span><span>Your stay around ITS Raya.</span></div></footer>
+<script src="assets/js/script.js" defer></script>
+</body></html>
